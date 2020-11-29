@@ -48,13 +48,7 @@ fieldset{
 button{
     background-color: chocolate;
 }
-#title
-{
-    font-family: cursive;
-    font-size: 40px ;
-    position: relative;
-    left: -320px;;
-}
+
 
 h3{
     text-emphasis: italic;
